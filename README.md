@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubham-naithani
 - 👀 I’m interested in Web dev, android dev, ethcial hacking and batch scripting. 
-- 🌱 I’m currently learning advance in angular and ASP Dotnet Core
+- 🌱 I’m currently learning advance in angular, Node, Express Js & MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
